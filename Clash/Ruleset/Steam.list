@@ -1,8 +1,14 @@
-# 内容：Steam
-# 数量：6条
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,humblebundle.com
-DOMAIN-SUFFIX,steam-chat.com
+# 内容：iPad游戏
+# steam
 DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
+##- Riot
+DOMAIN-KEYWORD,riotgames
+DOMAIN-KEYWORD,riotcdn
+DOMAIN-KEYWORD,wildrift
+DOMAIN-SUFFIX,pvp.net
+##- C&C
+DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,tnt-ea.com
+DOMAIN-SUFFIX,eamobile.com
+DOMAIN-SUFFIX,scorpion-ea.com
+DOMAIN-SUFFIX,crashlytics.com
