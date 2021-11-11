@@ -17,5 +17,9 @@ DOMAIN-SUFFIX,eamobile.com
 DOMAIN-SUFFIX,scorpion-ea.com
 DOMAIN-SUFFIX,crashlytics.com
 ##- PascalsWager
-DOMAIN-KEYWORD,ztgame
-DOMAIN-KEYWORD,mobileztgame
+DOMAIN-SUFFIX,ztgame.com.cn
+DOMAIN-SUFFIX,mobileztgame.com
+DOMAIN-SUFFIX,tips-works.com
+DOMAIN-SUFFIX,unity.cn
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,ip-api.com
