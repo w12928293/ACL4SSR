@@ -3,7 +3,12 @@
 #机场
 DOMAIN-KEYWORD,jinkela
 # steam
-DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steamstore-a.akamaihd.net
 ##- Riot
 DOMAIN-KEYWORD,riotgames
 DOMAIN-KEYWORD,riotcdn
