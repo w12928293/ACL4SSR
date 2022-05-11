@@ -3,6 +3,7 @@
 #机场
 DOMAIN-KEYWORD,jinkela
 ##- steam
+DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN,steambroadcast.akamaized.net
