@@ -1,3 +1,11 @@
+# 内容：自定义走代理
+
+##- 俄国游戏下载
+DOMAIN-SUFFIX,datacloudmail.ru
+
+##- 机场
+DOMAIN-KEYWORD,jinkela
+
 ##- PT
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,totheglory.im
