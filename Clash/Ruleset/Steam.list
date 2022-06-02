@@ -1,9 +1,6 @@
 # 内容：iPad游戏
 
-##- 俄国游戏下载
-DOMAIN-SUFFIX,datacloudmail.ru
-##- 机场
-DOMAIN-KEYWORD,jinkela
+
 ##- Riot
 DOMAIN-KEYWORD,riotgames
 DOMAIN-KEYWORD,riotcdn
