@@ -1,9 +1,5 @@
 # 内容：自定义走代理
 
-
-##- ChatGPT
-DOMAIN-SUFFIX,openai.com
-
 ##- GooglePhoto
 DOMAIN-SUFFIX,googleapis.com
 
