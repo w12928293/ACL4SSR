@@ -1,5 +1,14 @@
 
-
 ##- ChatGPT
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,bing.com
+
+##- NewBING
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,microsoft-falcon
+DOMAIN-KEYWORD,microsoftapp
+DOMAIN-KEYWORD,akamaized
+DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,virtualearth.net
