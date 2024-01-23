@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,datacloudmail.ru
 
 ##- 机场
 DOMAIN-KEYWORD,jinkela
+
+##- v2ex
+DOMAIN-KEYWORD,v2ex
