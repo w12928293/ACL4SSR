@@ -1,9 +1,9 @@
 ##- PT
-DOMAIN,springsunday.net
-DOMAIN,totheglory.im
-DOMAIN,hdarea.co
-DOMAIN,haidan.video
-DOMAIN,ourbits.club
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,hdarea.co
+DOMAIN-SUFFIX,haidan.video
+DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,lemonhd.org
-DOMAIN,nicept.net
-DOMAIN,btschool.club
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,btschool.club
