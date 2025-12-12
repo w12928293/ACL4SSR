@@ -1,7 +1,7 @@
 # 内容：自定义走代理
 
 ##- GooglePhoto
-DOMAIN-SUFFIX,googleapis.com
+##-DOMAIN-SUFFIX,googleapis.com
 
 ##- 俄国游戏下载
 DOMAIN-SUFFIX,datacloudmail.ru
